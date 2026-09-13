@@ -1,1 +1,1 @@
-print(readfile(".env
+print(readfile(".env"))
